@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20 px;
+}
+
+h1 { text-align: center; }
+
+nav button {
+    margin: 5px;
+    padding: 10px;
+    background: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+nav button:hover {
+    background: #005fa3;
+}
+
+.resultado {
+    margin-top: 25px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    min-height: 150px;
+    box-shadow: 0 0 5px #aaa;
+    font-size: 18px;
+}
